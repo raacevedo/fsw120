@@ -6,7 +6,7 @@ body {
     width: 200px;
     height: 150px;
     flex-wrap: wrap;
-    flex-basis: 250px;
     margin: 20px;
     text-align: center;
+    float: left;
 }
